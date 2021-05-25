@@ -7,7 +7,7 @@
 [![Docs build](https://readthedocs.org/projects/eth-orm/badge/?version=latest)](http://eth-orm.readthedocs.io/en/latest/?badge=latest)
    
 
-SQLAlchemy models and utilities for loading the Ethereum blockchain into a relational data model
+SQLAlchemy models and utilities for loading the Vapory blockchain into a relational data model
 
 Read more in the [documentation on ReadTheDocs](https://eth-orm.readthedocs.io/). [View the change log](https://eth-orm.readthedocs.io/en/latest/releases.html).
 
